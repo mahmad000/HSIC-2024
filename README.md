@@ -3,6 +3,9 @@
 # Reference
 ## This code is used for our Survey paper: [A Comprehensive Survey for Hyperspectral Image Classification: The Evolution from Conventional to Transformers and Mamba Models](https://arxiv.org/abs/2404.14955). The paper is accessible on ArXiv."
 
+![HSI](https://github.com/user-attachments/assets/be9f7b3b-8f6a-4c1a-b54c-4d89beabe2e8)
+
+
 @misc{ahmad2024comprehensivesurveyhyperspectralimage,
       title={A Comprehensive Survey for Hyperspectral Image Classification: The Evolution from Conventional to Transformers and Mamba Models}, 
       author={Muhammad Ahmad and Salvatore Distifano and Adil Mehmood Khan and Manuel Mazzara and Chenyu Li and Hao Li and Jagannath Aryal and Yao Ding and Gemine Vivone and Danfeng Hong},
