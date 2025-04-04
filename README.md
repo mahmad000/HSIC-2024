@@ -26,8 +26,6 @@
 ## Hybrid IN
 ## SCSNet
 ## AttentionGraph
-## Spatial-Spectral Transformer
-## WaveFormer
 ## Hybrid Former
 ## Spatial-spectral Mamba
 ## Multi-head Self-attention Mamba
@@ -35,7 +33,7 @@
 ## MorpMamba
 
 ## Hyperspectral datasets
-Several public hyperspectral datasets are available on the [EHU](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes). Users can download those beforehand. 
+Several public hyperspectral datasets are available on [EHU](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes). Users can download those beforehand. 
 
 An example dataset folder has the following structure:
 ```
