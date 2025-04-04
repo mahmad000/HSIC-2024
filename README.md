@@ -23,12 +23,16 @@
 ## 2D Xception Net
 ## 3D CNN
 ## Hybrid Net
+## Hybrid IN
 ## SCSNet
 ## AttentionGraph
 ## Spatial-Spectral Transformer
-
-# Requirements
-This tool is compatible with Python 2.7 and Python 3.5+ and executed over Colab.
+## WaveFormer
+## Hybrid Former
+## Spatial-spectral Mamba
+## Multi-head Self-attention Mamba
+## WaveMamba
+## MorpMamba
 
 ## Hyperspectral datasets
 Several public hyperspectral datasets are available on the [EHU](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes). Users can download those beforehand. 
@@ -39,13 +43,4 @@ Datasets
 ├── Indian Pines
 │   ├── Indian_pines_corrected.mat
 │   ├── Indian_pines_gt.mat
-├── University of Houston
-│   ├── UH.mat
-│   └── UG_gt.mat
-├── Pavia University
-│   ├── PU.mat
-│   └── PU_gt.mat
-├── Salinas
-│   ├── SA.mat
-│   └── SA_gt.mat
 ```
