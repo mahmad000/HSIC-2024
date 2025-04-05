@@ -16,6 +16,11 @@
       url={https://arxiv.org/abs/2404.14955}, 
 }
 
+## Spatial-spectral Mamba
+## Multi-head Self-attention Mamba
+## WaveMamba
+## MorpMamba
+## Hybrid Former
 ## (2+1)D Extreme Xception Net
 ## 2D CNN
 ## 2D Inception Net
@@ -26,11 +31,6 @@
 ## Hybrid IN
 ## SCSNet
 ## AttentionGraph
-## Hybrid Former
-## Spatial-spectral Mamba
-## Multi-head Self-attention Mamba
-## WaveMamba
-## MorpMamba
 
 ## Hyperspectral datasets
 Several public hyperspectral datasets are available on [EHU](https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes). Users can download those beforehand. 
