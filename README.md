@@ -1,20 +1,21 @@
 ## A Comprehensive Survey for Hyperspectral Image Classification: The Evolution from Conventional to Transformers and Mamba Models
 
 # Reference
-## This code is used for our Survey paper: [A Comprehensive Survey for Hyperspectral Image Classification: The Evolution from Conventional to Transformers and Mamba Models](https://arxiv.org/abs/2404.14955). The paper is accessible on ArXiv."
+## This Demo is used for our Survey paper: [A Comprehensive Survey for Hyperspectral Image Classification: The Evolution from Conventional to Transformers and Mamba Models](https://www.sciencedirect.com/science/article/pii/S0925231225011002), Neurocomputing, Volume 644, 130428."
 
 ![HSI](https://github.com/user-attachments/assets/be9f7b3b-8f6a-4c1a-b54c-4d89beabe2e8)
 
 
-@misc{ahmad2024comprehensivesurveyhyperspectralimage,
-      title={A Comprehensive Survey for Hyperspectral Image Classification: The Evolution from Conventional to Transformers and Mamba Models}, 
-      author={Muhammad Ahmad and Salvatore Distifano and Adil Mehmood Khan and Manuel Mazzara and Chenyu Li and Hao Li and Jagannath Aryal and Yao Ding and Gemine Vivone and Danfeng Hong},
-      year={2024},
-      eprint={2404.14955},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2404.14955}, 
-}
+@article{AHMAD2025130428,
+title = {A comprehensive survey for Hyperspectral Image Classification: The evolution from conventional to transformers and Mamba models},
+journal = {Neurocomputing},
+volume = {644},
+pages = {130428},
+year = {2025},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2025.130428},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231225011002},
+author = {Muhammad Ahmad and Salvatore Distefano and Adil Mehmood Khan and Manuel Mazzara and Chenyu Li and Hao Li and Jagannath Aryal and Yao Ding and Gemine Vivone and Danfeng Hong}}
 
 ## Spatial-spectral Mamba
 ## Multi-head Self-attention Mamba
